@@ -3,11 +3,11 @@ Program Name: Camping List - Replace Item
 Author: Hibo Jama
 Purpose: Replace one camping item with binoculars and
          display sections of the list using slice notation.
-Starter Code: Imported from Lab3_hibojama_add.py
+Starter Code: Imported from Lab3_hjama22_add.py
 Date: 2/1/2026
 """
 
-from Lab3_hibojama_add import camping_items
+from Lab3_hjama22_add import camping_items
 
 camping_items[5] = "binoculars"
 
